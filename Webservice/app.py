@@ -1,6 +1,6 @@
-# Author : Salvador Hernandez Mendoza
-# Email  : salvadorhm@gmail.com
-# Twitter: @salvadorhm
+# Author : Cristian Gayosso Peralta
+# Email  : 1716110078@utec-tgo.edu.mx
+
 import web
 import config
 
